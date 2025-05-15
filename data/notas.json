@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Actualizado desde PATCH",
+    "content": "Hola mundo persistente",
+    "userId": 2
+  }
+]
